@@ -1,0 +1,15 @@
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/BACKUP_CONSOLE
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/BACKUP_CONSOLE.deps.json
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/BACKUP_CONSOLE.runtimeconfig.json
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/BACKUP_CONSOLE.dll
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/ref/BACKUP_CONSOLE.dll
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/bin/release/net6.0/BACKUP_CONSOLE.pdb
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.csproj.AssemblyReference.cache
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.AssemblyInfoInputs.cache
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.AssemblyInfo.cs
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.csproj.CoreCompileInputs.cache
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.dll
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/ref/BACKUP_CONSOLE.dll
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.pdb
+/Users/saad/Documents/GitHub/BACKUP_CONSOLE/obj/release/net6.0/BACKUP_CONSOLE.genruntimeconfig.cache
